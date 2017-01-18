@@ -1,12 +1,11 @@
-/* ==========================================================================
-   Syntax Highlighting
-   ========================================================================== */
+/*--- SYNTAX HIGHLIGHTING ---------------------------------------------------*/
 
 div.highlighter-rouge, figure.highlight {
     position: relative;
     margin-bottom: 1.5em;
     color: #d0d0d0;
-    @include font-rem(12);
+    //@include font-rem(12);
+    font-size: 12px;
     line-height: 1.5;
     border: 1px solid darken($body-color, 5);
     border-radius: 3px;
