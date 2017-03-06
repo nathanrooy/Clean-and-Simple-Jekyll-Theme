@@ -1,4 +1,4 @@
-# Clean-and-Simple-Jekyll-Theme
+# Clean+Simple Jekyll Theme
 
 The Clean+Simple is an easy to modify, tumblr style Jekyll theme.
 
